@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-15T16:21:20.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="DG71YF7IzKwaK4IjggnJ" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-17T02:39:00.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="XzuM8So7TwTfZRP2x0JP" version="23.1.5" type="github">
   <diagram name="Page-1" id="4ZcfaZ4vpdODL3GOhnXK">
     <mxGraphModel dx="1034" dy="414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -105,7 +105,7 @@
           <mxGeometry x="169" y="70" width="45" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vpjBk7NM9BKVj3Qv-q8K-36" value="GitHub Jira Integration using Python Flask" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="394.25" y="47.5" width="136" height="52.5" as="geometry" />
+          <mxGeometry x="394.25" y="47.5" width="165.75" height="62.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
